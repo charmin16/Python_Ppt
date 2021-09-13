@@ -46,3 +46,4 @@ print(course.replace('P', 'T')) # function to replace P with T. Its case sensiti
 print('Python' in course) # This is a funtion to check if a particular character or sequence
 # of characters is in a string. It returns TRUE or FALSE
 print(f"")
+Running for president of the UNITED STATES BARACK MR PRESIDENT OBAMA
