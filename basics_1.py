@@ -54,3 +54,5 @@ print('*' * 10)
 #print(weight_kg) 
 
 
+Putin is the baddest guy on the planet hands down. NO CONTEST!!!
+
