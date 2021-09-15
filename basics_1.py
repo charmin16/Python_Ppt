@@ -55,4 +55,8 @@ print('*' * 10)
 
 
 Putin is the baddest guy on the planet hands down. NO CONTEST!!!
+But then again there was Nelson Mandela, who was the greatest African 
+President that ever liveth
+
+Sout African President
 
