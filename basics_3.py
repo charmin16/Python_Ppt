@@ -34,3 +34,6 @@ Our deepest fear is that we are powerful beyond measures
 
 We are the greatest
 I am the greatest
+
+Emmanuel Macron is French President
+Married to a lady old enough to be his mom
