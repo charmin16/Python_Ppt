@@ -31,3 +31,6 @@ print(math.floor(6.4))
 
 Our deepest fear is not because we are inadequate
 Our deepest fear is that we are powerful beyond measures
+
+We are the greatest
+I am the greatest
